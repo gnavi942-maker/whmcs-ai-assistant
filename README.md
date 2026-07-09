@@ -14,6 +14,16 @@ An enterprise-grade, RAG-powered Sales Assistant and Customer Support Agent desi
 
 ---
 
+## 📸 Application Screenshots
+
+### 1. Landing Page with Floating Chat Widget
+![Landing Page](./docs/images/landing_page.png)
+
+### 2. Interactive AI Chat Support & Fallback
+![Chat Interface](./docs/images/chat_response.png)
+
+---
+
 ## 📂 Project Repository Structure
 
 ```
