@@ -24,7 +24,7 @@ jobs:
 
     - name: Run Pytest suite
       run: |
-        pytest tests/
+        python -m pytest tests/
       env:
         DATABASE_URL: sqlite:///./test.db
         EMBEDDING_PROVIDER: sentence-transformers
